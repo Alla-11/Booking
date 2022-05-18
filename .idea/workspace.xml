@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b7f5f11a-1587-4c92-8438-f82c2c8ee51c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="29Le1w2aNfcGiHHQDjsdQKFCbuc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/steps" />
+  </component>
+  <component name="RunManager" selected="Cucumber Java.Feature: booking">
+    <configuration name="Feature: booking" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/booking.feature" />
+      <option name="GLUE" value="steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Booking" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: booking" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Booking []" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="BookingTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Booking" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.BookingTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Cucumber Java.Feature: booking" />
+      <item itemvalue="Maven.Booking []" />
+      <item itemvalue="TestNG.BookingTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber Java.Feature: booking" />
+        <item itemvalue="TestNG.BookingTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7f5f11a-1587-4c92-8438-f82c2c8ee51c" name="Default Changelist" comment="" />
+      <created>1652896581525</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652896581525</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="464" y="30" key="#Scenario:_Compare_rating_with_the_hotel" timestamp="1652901639892">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="464" y="30" key="#Scenario:_Compare_rating_with_the_hotel/0.0.1536.824@0.0.1536.824" timestamp="1652901639892" />
+    <state x="324" y="51" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1652900736608">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="324" y="51" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1652900736608" />
+    <state x="980" y="167" key="FileChooserDialogImpl" timestamp="1652897483633">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="980" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1652897483633" />
+    <state width="1493" height="474" key="GridCell.Tab.0.bottom" timestamp="1652904937643">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="474" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1652904937643" />
+    <state width="1493" height="474" key="GridCell.Tab.0.center" timestamp="1652904937643">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="474" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1652904937643" />
+    <state width="1493" height="474" key="GridCell.Tab.0.left" timestamp="1652904937643">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="474" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1652904937643" />
+    <state width="1493" height="474" key="GridCell.Tab.0.right" timestamp="1652904937643">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="474" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1652904937643" />
+    <state x="952" y="333" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1652901727401">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="952" y="333" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1652901727401" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/steps/BookingSteps.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
